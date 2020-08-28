@@ -35,7 +35,7 @@
 |Name                     |Class Section        |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:--------------------|:---------------------|:--------------------------------------------------------|  
 | Jung In Kim             | Section 001         | jikim413             | <https://jikim413.github.io/>                           |  
-
+| Alyssa Knapp (1:25-2:15)| Section 003: WF     | alyssaknapp          | <https://alyssaknapp.github.io/AlyssaKnapp-Repo/>       |
 
 
 # Integration of RStudio with Git
